@@ -33,7 +33,6 @@ body{
 .container{
     display: flex;
     text-align: center;
-    justify-content: center;
     align-items: center;
     min-height: 90vh;
     font-size: 27px;
